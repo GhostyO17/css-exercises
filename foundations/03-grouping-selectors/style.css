@@ -1,0 +1,13 @@
+.negro,.amarillo{
+    font-size: 28px;
+    font-family: "times new roman", Helvetica, sans-serif;
+}
+
+.negro{
+    color: white;
+    background-color: #000000 ;
+}
+
+.amarillo{
+    background-color: yellow;
+}
