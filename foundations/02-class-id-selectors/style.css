@@ -1,0 +1,18 @@
+.odd{
+    background-color: #ff66b2;
+    font-family: "verdana" sans-serif;
+}
+.odd.odda{
+    font-size: 24px;
+}
+
+#dos{
+    color: #002bff; 
+    font-size: 36px; 
+}
+
+#cuatro{
+    background-color: #009900;
+    font-size: 24px;
+    font-weight: bold;
+}
